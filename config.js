@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5491168352204']
+  ['082142439989', 'H', true],
+  ['082332888158']
 ] //Numeros de owner 
 
 global.mods = [''] 
@@ -20,16 +20,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = 'H┃ᴮᴼᵀ' 
+global.author = 'H' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = 'H'
 global.fgig = 'https://www.instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
 global.fgpyp = 'https://paypal.me/fg98f'
-global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
+global.fglog = './thumbnail.jpg' 
 
 //--- Grupos WA
 global.fgcanal = 'https://whatsapp.com/channel/0029VaCeuZd6mYPQiWqxXj1F'
